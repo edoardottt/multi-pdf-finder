@@ -1,5 +1,5 @@
 # multi-pdf-finder
-Are you looking for a word in many pdf files? Do it one time. ⚡
+**Are you looking for a word in many pdf files? Do it one time.** ⚡
 
 ![python-version](https://github.com/edoardottt/twitterBot/blob/master/images/python-version.svg)
 
