@@ -1,21 +1,17 @@
 usage() { echo "Usage: $0 [-f folder] [-w word]" 1>&2; exit 1; }
 
-while getopts ":f:w:" o; do
-    case "${o}" in
+while getopts "f:w:" o; do
+    case "$o" in
         f)
-            s=${OPTARG}
-                if [ ! -d "${OPTARG}" ] ; then
+            s="$OPTARG"
+                if [ ! -d "$OPTARG" ] ; then
                     echo "ERROR: $OPTARG should be a directory.";
                     usage
                 fi
-	            if [ -z "${OPTARG}" ] ; then
-	    			echo "ERROR: input -f empty"
-	    			usage
-				fi
             ;;
         w)
-            c=${OPTARG}
-            if [ -z "${OPTARG}" ] ; then
+            c="$OPTARG"
+            if [ -z "$OPTARG" ] ; then
     			echo "ERROR: input -w empty"
     			usage
 			fi
@@ -26,6 +22,15 @@ while getopts ":f:w:" o; do
     esac
 done
 shift "$((OPTIND-1))"
+
+if [ -z "$s" ] ; then
+    echo "ERROR: input -f empty"
+    usage
+fi
+if [ -z "$c" ] ; then
+    echo "ERROR: input -w empty"
+    usage
+fi
 
 if [ ! -d $PWD"/find_result" ] ; then
     mkdir find_result
