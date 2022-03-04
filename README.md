@@ -24,8 +24,9 @@ Usage: ./find.sh [ -f folder ] [ -w word ]
 Download 📡
 -------
 
-- `git clone https://github.com/edoardottt/multi-pdf-finder.git`
-
+```bash
+git clone https://github.com/edoardottt/multi-pdf-finder.git
+```
 
 Versioning :books:
 -------
