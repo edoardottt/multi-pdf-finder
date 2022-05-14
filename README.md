@@ -34,7 +34,6 @@ Versioning :books:
 - **[v1.0](https://github.com/edoardottt/multi-pdf-finder/releases/tag/v1.0)**
 
 
-If you liked it drop a :star:
 ---------
 
 [edoardoottavianelli.it](https://www.edoardoottavianelli.it/) to contact me.
