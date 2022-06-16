@@ -27,11 +27,6 @@ Download 📡
 git clone https://github.com/edoardottt/multi-pdf-finder.git
 ```
 
-Versioning :books:
--------
-      
-- **[v1.0](https://github.com/edoardottt/multi-pdf-finder/releases/tag/v1.0)**
-
 Contributing 🤝
 ------
 If you want to contribute to this project, you can start opening an [issue](https://github.com/edoardottt/multi-pdf-finder/issues).
