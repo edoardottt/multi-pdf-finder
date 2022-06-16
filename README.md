@@ -17,7 +17,7 @@ Usage 🚀
 --------
 
 ```bash
-Usage: ./find.sh [ -f folder ] [ -w word ]
+./find.sh [ -f folder ] [ -w word ]
 ```
 
 Download 📡
