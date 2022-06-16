@@ -24,7 +24,7 @@ Download 📡
 -------
 
 ```bash
-git clone https://github.com/edoardottt/multi-pdf-finder.git
+git clone https://github.com/edoardottt/multi-pdf-finder
 ```
 
 Contributing 🤝
