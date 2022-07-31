@@ -2,8 +2,8 @@
 
 **Are you searching a word in many pdf files? Do it one time.** ⚡
 
-![python-version](https://github.com/edoardottt/multi-pdf-finder/blob/master/Images/python-version.svg)
-![ubuntu-build](https://github.com/edoardottt/multi-pdf-finder/blob/master/Images/ubuntu-build.svg)
+![python-version](https://github.com/edoardottt/images/blob/main/multi-pdf-finder/python-version.svg)
+![ubuntu-build](https://github.com/edoardottt/images/blob/main/multi-pdf-finder/ubuntu-build.svg)
 
 
 Description 🔦 
