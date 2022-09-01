@@ -25,6 +25,10 @@ Usage 🚀
 ```bash
 ./find.sh [ -f folder ] [ -w word ]
 ```
+Example (Here I'm searching for the word `edoardottt` in all the PDF files in the folder called pdf_files) :
+```bash
+./find.sh -f pdf_files/ -w "edoardottt"
+```
 
 Contributing 🤝
 ------
