@@ -36,4 +36,4 @@ If you want to contribute to this project, you can start opening an [issue](http
 
 ---------
 
-[edoardoottavianelli.it](https://www.edoardoottavianelli.it/) to contact me.
+[edoardottt.com](https://edoardottt.com/) to contact me.
